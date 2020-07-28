@@ -7,4 +7,4 @@ Disallow: /images/
 Disallow: /product-page.html
 Disallow: /fa-bestprice.ico
 Disallow: /fa-youtube.ico
-Sitemap: http://tcore.ml/sitemap.xml
+Sitemap: http://tcore.ml/sitemap2.xml
