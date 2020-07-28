@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /404.html
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /product-page.html
+Disallow: /fa-bestprice.ico
+Disallow: /fa-youtube.ico
+Sitemap: http://tcore.ml/sitemap.xml
